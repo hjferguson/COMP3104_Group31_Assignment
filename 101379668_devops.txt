@@ -1,3 +1,4 @@
 The Developer Operations course at George Brown College, course code COMP3104, is part of semester 5 of the T177 program.
 This course covers procedures in order to increase productivity in our future programming positions.
+Written by: Owen Beattie 101379668
 
