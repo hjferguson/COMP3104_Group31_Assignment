@@ -1,0 +1,2 @@
+The Systems Development Life Cycle is made up of five phases. Including Planning, Analysis, Development, Intigration, and Maintenance.
+We impliment these phases of development lifecycle in each of our courses.
