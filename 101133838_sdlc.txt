@@ -1,0 +1,4 @@
+Every company uses git or some other form of file tracking since it allows 
+for excellent control on how the project is being made. Since employers
+use it, we should know it. More time can be spent learning about the techstack
+and less about stuff we should already know like git commands. 
