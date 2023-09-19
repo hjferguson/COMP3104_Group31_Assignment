@@ -1,0 +1,4 @@
+In COMP 3104 or DevOps, we learn about the standards and practices used 
+when working in the programming work force. Topics covered include version 
+control, continuous integration and deplyoment as well as basic command 
+line navigation and bash scripting and cloud infrastructure integration.
